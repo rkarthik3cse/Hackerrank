@@ -14,7 +14,8 @@
  *			3 + 2					6
  *			4 + 1					5
  *
- * Result is (2,3)	
+ * So 2 horizontal cuts, 3 vertical cuts.
+ * Result is 6 (Maximum number of pieces)
  */
 
 
